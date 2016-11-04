@@ -37,6 +37,8 @@ import android.view.animation.DecelerateInterpolator;
 import android.view.animation.ScaleAnimation;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
+import android.graphics.drawable.ColorDrawable;
+import android.graphics.Color;
 
 import com.appolica.interactiveinfowindow.animation.SimpleAnimationListener;
 import com.appolica.interactiveinfowindow.customview.TouchInterceptFrameLayout;
